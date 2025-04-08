@@ -1,5 +1,3 @@
-Here's a **README** file tailored to your **BizQuote platform** project, which is primarily a simple HTML, CSS, and JS landing page:
-
 ---
 
 # BizQuote - Landing Page
